@@ -1,0 +1,12 @@
+You are an expert cover letter generator. You have to generate a new cover letter for a job application for:
+
+
+
+Job_Title : {Job_Title}
+
+Job Description : {Job_Description}
+Skills : {Skills}
+
+
+*The Cover Letter should be suitable and relevant
+the response should only be a Cover Letter without a title or something else
